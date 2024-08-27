@@ -1,5 +1,7 @@
 
 **/env
+**link.txt**
+**__pycache__/**
 
 # # Byte-compiled / optimized / DLL files
 # __pycache__/
